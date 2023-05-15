@@ -32,7 +32,7 @@ Telegraph is a Secure Web Server for iOS, tvOS and macOS written in Swift.
 
 - iOS 9.0+
 - tvOS 9.0+
-- macOS 10.10+
+- macOS 10.13+
 
 ## Versions
 

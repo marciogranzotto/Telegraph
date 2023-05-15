@@ -28,3 +28,6 @@ Package.resolved
 !default.perspectivev3
 !Podfile.lock
 !Pods/Manifest.lock
+
+# Carthage
+Carthage/

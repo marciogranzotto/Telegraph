@@ -7,7 +7,7 @@ let package = Package(
     platforms: [
         .iOS(.v9),
         .tvOS(.v9),
-        .macOS(.v10_10)
+        .macOS(.v10_13)
     ],
     products: [
         .library(
@@ -16,7 +16,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/robbiehanson/CocoaAsyncSocket.git", from: "7.6.5"),
+        .package(url: "https://github.com/marciogranzotto/CocoaAsyncSocket.git", from: "master"),
         .package(url: "https://github.com/Building42/HTTPParserC.git", from: "2.9.4")
     ],
     targets: [
